@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tonyzpw.bloctemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tonyzpw.bloctemplate.MyBundle
 
 class MyApplicationService {
 
